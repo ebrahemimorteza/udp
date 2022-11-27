@@ -1,0 +1,4 @@
+morteza.html
+*.txt
+!b.txt
+server.html
